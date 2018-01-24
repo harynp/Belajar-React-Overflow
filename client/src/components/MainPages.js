@@ -4,7 +4,7 @@ import React, {Component} from 'react'
 export default class Pages extends Component {
   render () {
     return (
-      <h1>INI MAIN PAGES</h1>
+      <h1>INI MAIN LOH</h1>
     )
   }
 }
